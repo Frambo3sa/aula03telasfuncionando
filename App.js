@@ -14,7 +14,7 @@ function telalogin({navigation}) {
       <Avatar
         size="large"
         rounded
-        source={{ uri: "https://randomuser.me/api/portraits/men/41.jpg" }}
+        source={{ uri: "https://icons.iconarchive.com/icons/papirus-team/papirus-status/512/avatar-default-icon.png" }}
       />
 
       <Input
