@@ -2,7 +2,7 @@ import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, View } from 'react-native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { NavigationContainer } from '@react-navigation/native';
-import { Input, Button, Text } from 'react-native-elements';
+import { Input, Button, Text, Avatar } from 'react-native-elements';
 
 const Stack = createStackNavigator();
 
